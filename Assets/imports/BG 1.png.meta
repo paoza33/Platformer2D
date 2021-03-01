@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: ebc96442b711a6c438765d628dc296c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1816614541540220187
+    second: BG 1_0
+  - first:
+      213: 7500560606532330601
+    second: BG 1_1
+  - first:
+      213: 8827054351257519034
+    second: BG 1_2
+  - first:
+      213: 8725222621210672283
+    second: BG 1_3
+  - first:
+      213: -3595124929125720958
+    second: BG 1_4
+  - first:
+      213: 4289768965852070998
+    second: BG 1_5
+  - first:
+      213: 5022757917595658655
+    second: BG 1_6
+  - first:
+      213: -6599277832007111298
+    second: BG 1_7
+  - first:
+      213: -1482363297170218366
+    second: BG 1_8
+  - first:
+      213: -992704457906561934
+    second: BG 1_9
+  - first:
+      213: 575750474843412342
+    second: BG 1_10
+  - first:
+      213: 6073402774298419427
+    second: BG 1_11
+  - first:
+      213: 7091607470207157116
+    second: BG 1_12
+  - first:
+      213: 8963485581644674439
+    second: BG 1_13
+  - first:
+      213: -7594665337018085017
+    second: BG 1_14
+  - first:
+      213: 6879955952393448452
+    second: BG 1_15
+  - first:
+      213: -6052185705029982011
+    second: BG 1_16
+  - first:
+      213: -1133215610631444678
+    second: BG 1_17
+  - first:
+      213: 905397945580889669
+    second: BG 1_18
+  - first:
+      213: 4313308585596003359
+    second: BG 1_19
+  - first:
+      213: -5145538411943913867
+    second: BG 1_20
+  - first:
+      213: 2409870198243218388
+    second: BG 1_21
+  - first:
+      213: -1808075600551792405
+    second: BG 1_22
+  - first:
+      213: -5705784084052039567
+    second: BG 1_23
+  - first:
+      213: -6066078105213102551
+    second: BG 1_24
+  - first:
+      213: 5840280766917047898
+    second: BG 1_25
+  - first:
+      213: 672747125256372870
+    second: BG 1_26
+  - first:
+      213: 6386026040379566174
+    second: BG 1_27
+  - first:
+      213: -2208509001938236075
+    second: BG 1_28
+  - first:
+      213: 382502873881917920
+    second: BG 1_29
+  - first:
+      213: -4629017286699173952
+    second: BG 1_30
+  - first:
+      213: -1814048031525051717
+    second: BG 1_31
+  - first:
+      213: -8386657344373398709
+    second: BG 1_32
+  - first:
+      213: 5052679984167740284
+    second: BG 1_33
+  - first:
+      213: 780217307857646997
+    second: BG 1_34
+  - first:
+      213: -1201502610733461329
+    second: BG 1_35
+  - first:
+      213: -2191523583364580242
+    second: BG 1_36
+  - first:
+      213: 494895449179084676
+    second: BG 1_37
+  - first:
+      213: 7877304163647935665
+    second: BG 1_38
+  - first:
+      213: 7894230028631608625
+    second: BG 1_39
+  - first:
+      213: 6980118382069461010
+    second: BG 1_40
+  - first:
+      213: 9044977718313640983
+    second: BG 1_41
+  - first:
+      213: -8586868134232747913
+    second: BG 1_42
+  - first:
+      213: 6855992790683768877
+    second: BG 1_43
+  - first:
+      213: -7171811923125847801
+    second: BG 1_44
+  - first:
+      213: -8914181073657176249
+    second: BG 1_45
+  - first:
+      213: 2191167555707488188
+    second: BG 1_46
+  - first:
+      213: -2811684062752054869
+    second: BG 1_47
+  - first:
+      213: 1782558442268522149
+    second: BG 1_48
+  - first:
+      213: 8871492606539728479
+    second: BG 1_49
+  - first:
+      213: -4458159609205134474
+    second: BG 1_50
+  - first:
+      213: -6052692432791589332
+    second: BG 1_51
+  - first:
+      213: 3127969744708969718
+    second: BG 1_52
+  - first:
+      213: 4797428819059796748
+    second: BG 1_53
+  - first:
+      213: 1365540314367907846
+    second: BG 1_54
+  - first:
+      213: 8996813184204871370
+    second: BG 1_55
+  - first:
+      213: 432270322387032795
+    second: BG 1_56
+  - first:
+      213: -6220302934994434948
+    second: BG 1_57
+  - first:
+      213: -4197501780552018442
+    second: BG 1_58
+  - first:
+      213: -217609745342949073
+    second: BG 1_59
+  - first:
+      213: -4997333418420233800
+    second: BG 1_60
+  - first:
+      213: 7517764417911237105
+    second: BG 1_61
+  - first:
+      213: 685764217732252461
+    second: BG 1_62
+  - first:
+      213: 2638907681826976615
+    second: BG 1_63
+  - first:
+      213: 1083696038385104999
+    second: BG 1_64
+  - first:
+      213: 855632756244104983
+    second: BG 1_65
+  - first:
+      213: -2945419210788683225
+    second: BG 1_66
+  - first:
+      213: -1823625501794130581
+    second: BG 1_67
+  - first:
+      213: 6765345372092524485
+    second: BG 1_68
+  - first:
+      213: -7468301029017683791
+    second: BG 1_69
+  - first:
+      213: -5882208096088317563
+    second: BG 1_70
+  - first:
+      213: 4971050806506966775
+    second: BG 1_71
+  - first:
+      213: 8007298286906152992
+    second: BG 1_72
+  - first:
+      213: 8871543621707077184
+    second: BG 1_73
+  - first:
+      213: -5250223415285508734
+    second: BG 1_74
+  - first:
+      213: 6446592593908294787
+    second: BG 1_75
+  - first:
+      213: -3193995575482701332
+    second: BG 1_76
+  - first:
+      213: -3367529154371779823
+    second: BG 1_77
+  - first:
+      213: 7255606035365871019
+    second: BG 1_78
+  - first:
+      213: 1810842601916488183
+    second: BG 1_79
+  - first:
+      213: 8247929861515170196
+    second: BG 1_80
+  - first:
+      213: 3025985966918270492
+    second: BG 1_81
+  - first:
+      213: -96781388872373824
+    second: BG 1_82
+  - first:
+      213: -8067092226498878435
+    second: BG 1_83
+  - first:
+      213: -3798131517789119861
+    second: BG 1_84
+  - first:
+      213: -4897697000690882383
+    second: BG 1_85
+  - first:
+      213: -3253586996374526846
+    second: BG 1_86
+  - first:
+      213: -9149679376539516600
+    second: BG 1_87
+  - first:
+      213: 2234184774483553234
+    second: BG 1_88
+  - first:
+      213: 3431281106124219837
+    second: BG 1_89
+  - first:
+      213: -3493832992332893251
+    second: BG 1_90
+  - first:
+      213: 4016029695768117429
+    second: BG 1_91
+  - first:
+      213: -2965784657420126734
+    second: BG 1_92
+  - first:
+      213: 1742119694556979107
+    second: BG 1_93
+  - first:
+      213: -4640650449505714201
+    second: BG 1_94
+  - first:
+      213: -8885691495268358141
+    second: BG 1_95
+  - first:
+      213: 2963372766701521201
+    second: BG 1_96
+  - first:
+      213: -6620091073593926789
+    second: BG 1_97
+  - first:
+      213: -1163196848087486679
+    second: BG 1_98
+  - first:
+      213: 4008621497224539788
+    second: BG 1_99
+  - first:
+      213: -7197954105582899133
+    second: BG 1_100
+  - first:
+      213: 1949333935737797671
+    second: BG 1_101
+  - first:
+      213: -8278575569831045082
+    second: BG 1_102
+  - first:
+      213: -3613844580208728592
+    second: BG 1_103
+  - first:
+      213: 4246056314092003300
+    second: BG 1_104
+  - first:
+      213: -5964859070193140285
+    second: BG 1_105
+  - first:
+      213: -807437043765859207
+    second: BG 1_106
+  - first:
+      213: 6819836890734911814
+    second: BG 1_107
+  - first:
+      213: 2609855256971970924
+    second: BG 1_108
+  - first:
+      213: -3420734471779626517
+    second: BG 1_109
+  - first:
+      213: 2591555969396985203
+    second: BG 1_110
+  - first:
+      213: -6962305844514473962
+    second: BG 1_111
+  - first:
+      213: 7770305971218128443
+    second: BG 1_112
+  - first:
+      213: 4012016507887249614
+    second: BG 1_113
+  - first:
+      213: -3458185503999116787
+    second: BG 1_114
+  - first:
+      213: -6581551937882189463
+    second: BG 1_115
+  - first:
+      213: -2202720508620792026
+    second: BG 1_116
+  - first:
+      213: -456323057627297237
+    second: BG 1_117
+  - first:
+      213: 7916647621455759256
+    second: BG 1_118
+  - first:
+      213: 5477463667989703617
+    second: BG 1_119
+  - first:
+      213: -1199964707889638004
+    second: BG 1_120
+  - first:
+      213: -7591640031230067551
+    second: BG 1_121
+  - first:
+      213: 5706693346744825318
+    second: BG 1_122
+  - first:
+      213: 7691177829850234097
+    second: BG 1_123
+  - first:
+      213: -7355944460835397654
+    second: BG 1_124
+  - first:
+      213: 162644061566061937
+    second: BG 1_125
+  - first:
+      213: 6931963672236266007
+    second: BG 1_126
+  - first:
+      213: 4705796661943464893
+    second: BG 1_127
+  - first:
+      213: 738032919468480544
+    second: BG 1_128
+  - first:
+      213: 3933664791573359767
+    second: BG 1_129
+  - first:
+      213: -6882096339412924379
+    second: BG 1_130
+  - first:
+      213: 7650326484957005609
+    second: BG 1_131
+  - first:
+      213: -7545173990750002625
+    second: BG 1_132
+  - first:
+      213: 7185932955677690047
+    second: BG 1_133
+  - first:
+      213: -8364736988638814520
+    second: BG 1_134
+  - first:
+      213: 9071080890168965406
+    second: BG 1_135
+  - first:
+      213: -8900949978741406320
+    second: BG 1_136
+  - first:
+      213: -6178535814773899790
+    second: BG 1_137
+  - first:
+      213: 1806195926325964424
+    second: BG 1_138
+  - first:
+      213: -6014251998851268862
+    second: BG 1_139
+  - first:
+      213: -5847218069742742484
+    second: BG 1_140
+  - first:
+      213: -4775767791818116706
+    second: BG 1_141
+  - first:
+      213: 1122527884847417362
+    second: BG 1_142
+  - first:
+      213: -778801625863272745
+    second: BG 1_143
+  - first:
+      213: 2227010360891078673
+    second: BG 1_144
+  - first:
+      213: -9103592075372043350
+    second: BG 1_145
+  - first:
+      213: 5965104551347472473
+    second: BG 1_146
+  - first:
+      213: 4514928851114059652
+    second: BG 1_147
+  - first:
+      213: 5996448368515142037
+    second: BG 1_148
+  - first:
+      213: -7157924225401358088
+    second: BG 1_149
+  - first:
+      213: 4566430612141425
+    second: BG 1_150
+  - first:
+      213: 4219075913908897543
+    second: BG 1_151
+  - first:
+      213: 7757832235593740582
+    second: BG 1_152
+  - first:
+      213: -6689129500456477992
+    second: BG 1_153
+  - first:
+      213: -3030590946835885132
+    second: BG 1_154
+  - first:
+      213: -422619544662873372
+    second: BG 1_155
+  - first:
+      213: -4548123829529696330
+    second: BG 1_156
+  - first:
+      213: 7616177015146978003
+    second: BG 1_157
+  - first:
+      213: -8067681028959605914
+    second: BG 1_158
+  - first:
+      213: 3314296035586014572
+    second: BG 1_159
+  - first:
+      213: 3287747887313298281
+    second: BG 1_160
+  - first:
+      213: -360977720499074363
+    second: BG 1_161
+  - first:
+      213: -8375235525472142787
+    second: BG 1_162
+  - first:
+      213: 3937852850079735674
+    second: BG 1_163
+  - first:
+      213: -1213731724320308195
+    second: BG 1_164
+  - first:
+      213: -2556590458814278817
+    second: BG 1_165
+  - first:
+      213: 1375353462087588700
+    second: BG 1_166
+  - first:
+      213: 198310570767636182
+    second: BG 1_167
+  - first:
+      213: -1759046830441759981
+    second: BG 1_168
+  - first:
+      213: 8109885927065565700
+    second: BG 1_169
+  - first:
+      213: -7868016272990483349
+    second: BG 1_170
+  - first:
+      213: 5974125372016184106
+    second: BG 1_171
+  - first:
+      213: 2022285016577097570
+    second: BG 1_172
+  - first:
+      213: 7683357265273799875
+    second: BG 1_173
+  - first:
+      213: -8689395623762116897
+    second: BG 1_174
+  - first:
+      213: 6286366612385130562
+    second: BG 1_175
+  - first:
+      213: 2302628876840793752
+    second: BG 1_176
+  - first:
+      213: -8622692338225320688
+    second: BG 1_177
+  - first:
+      213: -8630052138528424265
+    second: BG 1_178
+  - first:
+      213: -151302868980574016
+    second: BG 1_179
+  - first:
+      213: -3550347693782696553
+    second: BG 1_180
+  - first:
+      213: 3576967357980862111
+    second: BG 1_181
+  - first:
+      213: 4464322622002529340
+    second: BG 1_182
+  - first:
+      213: 3806383278292391970
+    second: BG 1_183
+  - first:
+      213: 5670383442824308871
+    second: BG 1_184
+  - first:
+      213: -1017528495800130964
+    second: BG 1_185
+  - first:
+      213: 3634845669617485021
+    second: BG 1_186
+  - first:
+      213: -5367805825949058382
+    second: BG 1_187
+  - first:
+      213: 2937766902702546912
+    second: BG 1_188
+  - first:
+      213: 207578209506036060
+    second: BG 1_189
+  - first:
+      213: -5222220046761262570
+    second: BG 1_190
+  - first:
+      213: -737286234417208775
+    second: BG 1_191
+  - first:
+      213: -548624278610117943
+    second: BG 1_192
+  - first:
+      213: -2255983099389646662
+    second: BG 1_193
+  - first:
+      213: 3348815086651086293
+    second: BG 1_194
+  - first:
+      213: 2121476152920860072
+    second: BG 1_195
+  - first:
+      213: -2751897032196328599
+    second: BG 1_196
+  - first:
+      213: -6911668737704100411
+    second: BG 1_197
+  - first:
+      213: -765164749157003581
+    second: BG 1_198
+  - first:
+      213: -6832599722831658306
+    second: BG 1_199
+  - first:
+      213: -8761142391921046491
+    second: BG 1_200
+  - first:
+      213: 3015962625850641011
+    second: BG 1_201
+  - first:
+      213: -7917455420522832916
+    second: BG 1_202
+  - first:
+      213: -7938134310430778672
+    second: BG 1_203
+  - first:
+      213: -5215303717851456864
+    second: BG 1_204
+  - first:
+      213: 2604125667295771126
+    second: BG 1_205
+  - first:
+      213: -1875092062393524146
+    second: BG 1_206
+  - first:
+      213: -6379717985044946635
+    second: BG 1_207
+  - first:
+      213: 6547136002726049428
+    second: BG 1_208
+  - first:
+      213: -5971307988737799511
+    second: BG 1_209
+  - first:
+      213: 6876242773204438746
+    second: BG 1_210
+  - first:
+      213: -1149846010362184878
+    second: BG 1_211
+  - first:
+      213: -4224620343133796609
+    second: BG 1_212
+  - first:
+      213: -2176198971252873416
+    second: BG 1_213
+  - first:
+      213: 8196224164599219650
+    second: BG 1_214
+  - first:
+      213: 4712152853848494869
+    second: BG 1_215
+  - first:
+      213: 5638159980749081278
+    second: BG 1_216
+  - first:
+      213: 2405708443472390228
+    second: BG 1_217
+  - first:
+      213: 3595081360558832553
+    second: BG 1_218
+  - first:
+      213: -3776662067783036013
+    second: BG 1_219
+  - first:
+      213: -8645006532763099267
+    second: BG 1_220
+  - first:
+      213: 6296212747701879548
+    second: BG 1_221
+  - first:
+      213: -1710907178563027612
+    second: BG 1_222
+  - first:
+      213: 1689422892269322004
+    second: BG 1_223
+  - first:
+      213: -8306038908161544229
+    second: BG 1_224
+  - first:
+      213: 7553033763461415971
+    second: BG 1_225
+  - first:
+      213: 2509849955481726138
+    second: BG 1_226
+  - first:
+      213: 4986284245238152694
+    second: BG 1_227
+  - first:
+      213: 7091692593941857559
+    second: BG 1_228
+  - first:
+      213: -9058533670685098863
+    second: BG 1_229
+  - first:
+      213: 3733060457669119015
+    second: BG 1_230
+  - first:
+      213: -6575632612883168395
+    second: BG 1_231
+  - first:
+      213: 807294559038122048
+    second: BG 1_232
+  - first:
+      213: -8977753639686645508
+    second: BG 1_233
+  - first:
+      213: -2236341383193686024
+    second: BG 1_234
+  - first:
+      213: -664840379442070167
+    second: BG 1_235
+  - first:
+      213: 3269159437997375859
+    second: BG 1_236
+  - first:
+      213: -1061524687931355871
+    second: BG 1_237
+  - first:
+      213: 6796883159543502846
+    second: BG 1_238
+  - first:
+      213: 4436909913161533272
+    second: BG 1_239
+  - first:
+      213: -7448534519967939364
+    second: BG 1_240
+  - first:
+      213: -6528976836954472792
+    second: BG 1_241
+  - first:
+      213: -1963956654928988988
+    second: BG 1_242
+  - first:
+      213: 985880036802093304
+    second: BG 1_243
+  - first:
+      213: 6973917244504418677
+    second: BG 1_244
+  - first:
+      213: 2260848418968322494
+    second: BG 1_245
+  - first:
+      213: 6003178559336070141
+    second: BG 1_246
+  - first:
+      213: 6725444358759305954
+    second: BG 1_247
+  - first:
+      213: -7347162441017977161
+    second: BG 1_248
+  - first:
+      213: 8934992957845082425
+    second: BG 1_249
+  - first:
+      213: -5531501365522265456
+    second: BG 1_250
+  - first:
+      213: 8682585254015327161
+    second: BG 1_251
+  - first:
+      213: 4743945150763225701
+    second: BG 1_252
+  - first:
+      213: -171371728221098058
+    second: BG 1_253
+  - first:
+      213: -2312877880383770612
+    second: BG 1_254
+  - first:
+      213: -1496122182227982679
+    second: BG 1_255
+  - first:
+      213: -7398979878798294524
+    second: BG 1_256
+  - first:
+      213: 8625329726537054344
+    second: BG 1_257
+  - first:
+      213: 3902099180200059432
+    second: BG 1_258
+  - first:
+      213: 7171240444530036912
+    second: BG 1_259
+  - first:
+      213: -7017843601961046915
+    second: BG 1_260
+  - first:
+      213: 8356673211390335157
+    second: BG 1_261
+  - first:
+      213: -6147548685602530953
+    second: BG 1_262
+  - first:
+      213: -8431681538263732603
+    second: BG 1_263
+  - first:
+      213: -2780349904342344352
+    second: BG 1_264
+  - first:
+      213: -4619393355366876906
+    second: BG 1_265
+  - first:
+      213: 7166784950100136927
+    second: BG 1_266
+  - first:
+      213: 4914407086076386305
+    second: BG 1_267
+  - first:
+      213: 3776024875525276203
+    second: BG 1_268
+  - first:
+      213: -4331929968770138943
+    second: BG 1_269
+  - first:
+      213: 6770065299676747977
+    second: BG 1_270
+  - first:
+      213: -6296603295652461812
+    second: BG 1_271
+  - first:
+      213: 1353891726787623802
+    second: BG 1_272
+  - first:
+      213: 2287049556988507251
+    second: BG 1_273
+  - first:
+      213: -7480815733964729592
+    second: BG 1_274
+  - first:
+      213: -3570873153012636949
+    second: BG 1_275
+  - first:
+      213: 7584045058259971642
+    second: BG 1_276
+  - first:
+      213: -3109224301324566460
+    second: BG 1_277
+  - first:
+      213: 8332157012281989314
+    second: BG 1_278
+  - first:
+      213: 2110267746508706895
+    second: BG 1_279
+  - first:
+      213: 5932141060734796235
+    second: BG 1_280
+  - first:
+      213: 8386985293123735671
+    second: BG 1_281
+  - first:
+      213: 8228536817583197430
+    second: BG 1_282
+  - first:
+      213: 211537387381205004
+    second: BG 1_283
+  - first:
+      213: -513779342768742702
+    second: BG 1_284
+  - first:
+      213: 2751267441017360199
+    second: BG 1_285
+  - first:
+      213: -2680247320472615087
+    second: BG 1_286
+  - first:
+      213: -4873090075475092190
+    second: BG 1_287
+  - first:
+      213: -5133222173991971202
+    second: BG 1_288
+  - first:
+      213: -5102275681814834462
+    second: BG 1_289
+  - first:
+      213: -7141516508081350853
+    second: BG 1_290
+  - first:
+      213: 1184633179723268648
+    second: BG 1_291
+  - first:
+      213: 5781815860894167580
+    second: BG 1_292
+  - first:
+      213: 7215729953302256845
+    second: BG 1_293
+  - first:
+      213: -6649169973852072090
+    second: BG 1_294
+  - first:
+      213: 4668165603812950673
+    second: BG 1_295
+  - first:
+      213: -2615047226415613214
+    second: BG 1_296
+  - first:
+      213: 127193938993457449
+    second: BG 1_297
+  - first:
+      213: 4032620690955118904
+    second: BG 1_298
+  - first:
+      213: -8280028434870706954
+    second: BG 1_299
+  - first:
+      213: -1284139641299674441
+    second: BG 1_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 1280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad556ccc1dd2ee0800000000000000
+      internalID: -1284139641299674441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 1280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964e5a8c128571860800000000000000
+      internalID: 7500560606532330601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 1280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab345cb2a2fff7a70800000000000000
+      internalID: 8827054351257519034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
